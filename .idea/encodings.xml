@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="windows-1256">
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/1.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/10.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/11.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/12.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/13.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/14.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/15.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/16.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/17.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/18.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/19.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/2.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/20.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/21.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/22.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/23.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/24.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/3.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/4.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/5.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/6.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/7.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/8.txt" charset="windows-1256" />
+    <file url="file://$PROJECT_DIR$/app/src/main/assets/9.txt" charset="windows-1256" />
+  </component>
+</project>
